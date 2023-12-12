@@ -1,2 +1,2 @@
 # genius-project
-My first project
+My firct commit
